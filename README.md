@@ -27,6 +27,7 @@ Challenge | Solution
 [Employee Salaries](https://www.hackerrank.com/challenges/salary-of-employees/problem) | [MySQL](https://github.com/PryskaS/SQL-challenges/blob/master/1.%20Basic%20Select/Employee%20Salaries.sql)
   
 2. **Advanced Select**
+
 Challenge | Solution
 ------------ | -------------
 [Type of Triangle](https://www.hackerrank.com/challenges/what-type-of-triangle/problem) | [MySQL](https://github.com/PryskaS/SQL-challenges/blob/master/2.%20Advanced%20Select/Type%20of%20Triangle.sql)
@@ -36,6 +37,7 @@ Challenge | Solution
 [New Companies](https://www.hackerrank.com/challenges/the-company/problem) | [MySQL](https://github.com/PryskaS/SQL-challenges/blob/master/2.%20Advanced%20Select/New%20Companies.sql)
   
 3. **Aggregation Challenges**
+
 Challenge | Solution
 ------------ | -------------
 [Revising Aggregations - The Count Function](https://www.hackerrank.com/challenges/revising-aggregations-the-count-function/problem) | [MySQL]
@@ -57,6 +59,7 @@ Challenge | Solution
 [Weather Observation Station 20](https://www.hackerrank.com/challenges/weather-observation-station-20/problem) | [MySQL]
   
 4. **Basic Join**
+
 Challenge | Solution
 ------------ | -------------
 [Asian Population](https://www.hackerrank.com/challenges/asian-population/problem) | [MySQL](https://github.com/PryskaS/SQL-challenges/blob/master/Basic%20Join/Asian%20Population.sql)
@@ -67,6 +70,7 @@ Challenge | Solution
 [Ollivander's Inventory](https://www.hackerrank.com/challenges/harry-potter-and-wands/problem) | [MySQL](https://github.com/PryskaS/SQL-challenges/blob/master/Basic%20Join/Ollivander's%20Inventory.sql)
   
 5. **Advanced Join**
+
 Challenge | Solution
 ------------ | -------------
 [SQL Project Planning](https://www.hackerrank.com/challenges/sql-projects) | [MySQL]
@@ -76,6 +80,7 @@ Challenge | Solution
 [15 Days of Learning SQL](https://www.hackerrank.com/challenges/15-days-of-learning-sql) | [MySQL]
   
 6. **Alternative Queries**
+
 Challenge | Solution
 ------------ | -------------
 [Draw The Triangle 1](https://www.hackerrank.com/challenges/draw-the-triangle-1) | [MySQL]
