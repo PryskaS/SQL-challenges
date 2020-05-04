@@ -1,6 +1,7 @@
 ![hackerrank](https://miro.medium.com/max/1400/1*JhV105AX1GNhHhqc8ZunEg.png)
 
-# SQL challenges
+
+# SQL challenges ![5-starts](https://github.com/PryskaS/SQL-challenges/blob/master/Images/sql-5-starts.PNG)
 ## SPECIALIZED SKILLS on Hackerrank
 Solutions of the HackerRank's SQL challenges
 
