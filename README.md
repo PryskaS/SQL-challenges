@@ -1,5 +1,9 @@
-![hackerrank](https://miro.medium.com/max/1400/1*JhV105AX1GNhHhqc8ZunEg.png)
-
+<p align="center">
+  <img width="800" height="190" src="https://github.com/PryskaS/SQL-challenges/blob/master/Images/logo%20hackerrank.png">
+</p>
+<p align="center">
+  <img width="150" height="150" src="https://github.com/PryskaS/SQL-challenges/blob/master/Images/sql-5-starts.PNG">
+</p>
 
 # SQL challenges 
 ## SPECIALIZED SKILLS on Hackerrank
