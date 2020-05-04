@@ -24,11 +24,11 @@ Solutions of the HackerRank's SQL challenges
   - [Employee Salaries](https://www.hackerrank.com/challenges/salary-of-employees/problem) | **Solution:** [MySQL Solution](https://github.com/PryskaS/SQL-challenges/blob/master/1.%20Basic%20Select/Employee%20Salaries.sql)
   
 2. **Advanced Select**
-  - [Type of Triangle](https://www.hackerrank.com/challenges/what-type-of-triangle/problem) | **Solution:** [MySQL Solution]
-  - [The PADS](https://www.hackerrank.com/challenges/the-pads/problem) | **Solution:** [MySQL Solution]
-  - [Occupations](https://www.hackerrank.com/challenges/occupations/problem) | **Solution:** [MySQL Solution]
-  - [Binary Tree Nodes](https://www.hackerrank.com/challenges/binary-search-tree-1/problem) | **Solution:** [MySQL Solution]
-  - [New Companies](https://www.hackerrank.com/challenges/the-company/problem) | **Solution:** [MySQL Solution]
+  - [Type of Triangle](https://www.hackerrank.com/challenges/what-type-of-triangle/problem) | **Solution:** [MySQL Solution](https://github.com/PryskaS/SQL-challenges/blob/master/2.%20Advanced%20Select/Type%20of%20Triangle.sql)
+  - [The PADS](https://www.hackerrank.com/challenges/the-pads/problem) | **Solution:** [MySQL Solution](https://github.com/PryskaS/SQL-challenges/blob/master/2.%20Advanced%20Select/The%20PADS.sql)
+  - [Occupations](https://www.hackerrank.com/challenges/occupations/problem) | **Solution:** [MySQL Solution](https://github.com/PryskaS/SQL-challenges/blob/master/2.%20Advanced%20Select/Occupations.sql)
+  - [Binary Tree Nodes](https://www.hackerrank.com/challenges/binary-search-tree-1/problem) | **Solution:** [MySQL Solution](https://github.com/PryskaS/SQL-challenges/blob/master/2.%20Advanced%20Select/Binary%20Tree%20Nodes.sql)
+  - [New Companies](https://www.hackerrank.com/challenges/the-company/problem) | **Solution:** [MySQL Solution](https://github.com/PryskaS/SQL-challenges/blob/master/2.%20Advanced%20Select/New%20Companies.sql)
   
 3. **Aggregation Challenges**
   - [Revising Aggregations - The Count Function](https://www.hackerrank.com/challenges/revising-aggregations-the-count-function/problem) | **Solution:** [MySQL Solution]
@@ -50,12 +50,12 @@ Solutions of the HackerRank's SQL challenges
   - [Weather Observation Station 20](https://www.hackerrank.com/challenges/weather-observation-station-20/problem) | **Solution:** [MySQL Solution]
   
 4. **Basic Join**
-  - [Asian Population](https://www.hackerrank.com/challenges/asian-population/problem) | **Solution:** [MySQL Solution]
-  - [African Cities](https://www.hackerrank.com/challenges/african-cities/problem) | **Solution:** [MySQL Solution]
-  - [Average Population of Each Continent](https://www.hackerrank.com/challenges/average-population-of-each-continent/problem) | **Solution:** [MySQL Solution]
-  - [The Report](https://www.hackerrank.com/challenges/the-report/submissions/code/94188063) | **Solution:** [MySQL Solution]
-  - [Top Competitors](https://www.hackerrank.com/challenges/full-score/problem) | **Solution:** [MySQL Solution]
-  - [Ollivander's Inventory](https://www.hackerrank.com/challenges/harry-potter-and-wands/problem) | **Solution:** [MySQL Solution]
+  - [Asian Population](https://www.hackerrank.com/challenges/asian-population/problem) | **Solution:** [MySQL Solution](https://github.com/PryskaS/SQL-challenges/blob/master/Basic%20Join/Asian%20Population.sql)
+  - [African Cities](https://www.hackerrank.com/challenges/african-cities/problem) | **Solution:** [MySQL Solution](https://github.com/PryskaS/SQL-challenges/blob/master/Basic%20Join/African%20Cities.sql)
+  - [Average Population of Each Continent](https://www.hackerrank.com/challenges/average-population-of-each-continent/problem) | **Solution:** [MySQL Solution](https://github.com/PryskaS/SQL-challenges/blob/master/Basic%20Join/Average%20Population%20of%20Each%20Continent.sql)
+  - [The Report](https://www.hackerrank.com/challenges/the-report/submissions/code/94188063) | **Solution:** [MySQL Solution](https://github.com/PryskaS/SQL-challenges/blob/master/Basic%20Join/The%20Report.sql)
+  - [Top Competitors](https://www.hackerrank.com/challenges/full-score/problem) | **Solution:** [MySQL Solution](https://github.com/PryskaS/SQL-challenges/blob/master/Basic%20Join/Top%20Competitors.sql)
+  - [Ollivander's Inventory](https://www.hackerrank.com/challenges/harry-potter-and-wands/problem) | **Solution:** [MySQL Solution](https://github.com/PryskaS/SQL-challenges/blob/master/Basic%20Join/Ollivander's%20Inventory.sql)
   
 5. **Advanced Join**
   - [SQL Project Planning](https://www.hackerrank.com/challenges/sql-projects) | **Solution:** [MySQL Solution]
