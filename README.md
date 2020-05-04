@@ -1,4 +1,7 @@
-# SQL-challenges
+![hackerrank](https://miro.medium.com/max/1400/1*JhV105AX1GNhHhqc8ZunEg.png)
+
+# SQL challenges
+## SPECIALIZED SKILLS on Hackerrank
 Solutions of the HackerRank's SQL challenges
 
 1. **Basic Select** 
