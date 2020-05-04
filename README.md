@@ -9,8 +9,6 @@
 ## SPECIALIZED SKILLS on Hackerrank
 Solutions of the HackerRank's SQL challenges
 
-![5-starts](https://github.com/PryskaS/SQL-challenges/blob/master/Images/sql-5-starts.PNG)
-
 1. **Basic Select** 
 
 Challenge | Solution
