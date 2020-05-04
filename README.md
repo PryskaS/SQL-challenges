@@ -2,26 +2,26 @@
 Solutions of the HackerRank's SQL challenges
 
 1. **Basic Select** 
-  - [Revising the Select Query I](https://www.hackerrank.com/challenges/revising-the-select-query/problem) | **Solution:** [MySQL Solution]
-  - [Revising the Select Query II](https://www.hackerrank.com/challenges/revising-the-select-query-2/problem) | **Solution:** [MySQL Solution]
-  - [Select All](https://www.hackerrank.com/challenges/select-all-sql/problem) | **Solution:** [MySQL Solution]
-  - [Select By ID](https://www.hackerrank.com/challenges/select-by-id/problem) | **Solution:** [MySQL Solution]
-  - [Japanese Cities' Attributes](https://www.hackerrank.com/challenges/japanese-cities-attributes/problem) | **Solution:** [MySQL Solution]
-  - [Japanese Cities' Names](https://www.hackerrank.com/challenges/japanese-cities-name/problem) | **Solution:** [MySQL Solution]
-  - [Weather Observation Station 1](https://www.hackerrank.com/challenges/weather-observation-station-1/problem) | **Solution:** [MySQL Solution]
-  - [Weather Observation Station 3](https://www.hackerrank.com/challenges/weather-observation-station-3/problem) | **Solution:** [MySQL Solution]
-  - [Weather Observation Station 4](https://www.hackerrank.com/challenges/weather-observation-station-4/problem) | **Solution:** [MySQL Solution]
-  - [Weather Observation Station 5](https://www.hackerrank.com/challenges/weather-observation-station-5/problem) | **Solution:** [MySQL Solution]
-  - [Weather Observation Station 6](https://www.hackerrank.com/challenges/weather-observation-station-6/problem) | **Solution:** [MySQL Solution]
-  - [Weather Observation Station 7](https://www.hackerrank.com/challenges/weather-observation-station-7/problem) | **Solution:** [MySQL Solution]
-  - [Weather Observation Station 8](https://www.hackerrank.com/challenges/weather-observation-station-8/problem) | **Solution:** [MySQL Solution]
-  - [Weather Observation Station 9](https://www.hackerrank.com/challenges/weather-observation-station-9/problem) | **Solution:** [MySQL Solution]
-  - [Weather Observation Station 10](https://www.hackerrank.com/challenges/weather-observation-station-10/problem) | **Solution:** [MySQL Solution]
-  - [Weather Observation Station 11](https://www.hackerrank.com/challenges/weather-observation-station-11/problem) | **Solution:** [MySQL Solution]
-  - [Weather Observation Station 12](https://www.hackerrank.com/challenges/weather-observation-station-12/problem) | **Solution:** [MySQL Solution]
-  - [Higher Than 75 Marks](https://www.hackerrank.com/challenges/more-than-75-marks/problem) | **Solution:** [MySQL Solution]
-  - [Employee Names](https://www.hackerrank.com/challenges/name-of-employees/problem) | **Solution:** [MySQL Solution]
-  - [Employee Salaries](https://www.hackerrank.com/challenges/salary-of-employees/problem) | **Solution:** [MySQL Solution]
+  - [Revising the Select Query I](https://www.hackerrank.com/challenges/revising-the-select-query/problem) | **Solution:** [MySQL Solution](https://github.com/PryskaS/SQL-challenges/blob/master/1.%20Basic%20Select/Revising%20the%20Select%20Query%20I.sql)
+  - [Revising the Select Query II](https://www.hackerrank.com/challenges/revising-the-select-query-2/problem) | **Solution:** [MySQL Solution](https://github.com/PryskaS/SQL-challenges/blob/master/1.%20Basic%20Select/Revising%20the%20Select%20Query%20II.sql)
+  - [Select All](https://www.hackerrank.com/challenges/select-all-sql/problem) | **Solution:** [MySQL Solution](https://github.com/PryskaS/SQL-challenges/blob/master/1.%20Basic%20Select/Select%20All.sql)
+  - [Select By ID](https://www.hackerrank.com/challenges/select-by-id/problem) | **Solution:** [MySQL Solution](https://github.com/PryskaS/SQL-challenges/blob/master/1.%20Basic%20Select/Select%20By%20ID.sql)
+  - [Japanese Cities' Attributes](https://www.hackerrank.com/challenges/japanese-cities-attributes/problem) | **Solution:** [MySQL Solution](https://github.com/PryskaS/SQL-challenges/blob/master/1.%20Basic%20Select/Japanese%20Cities'%20Attributes.sql)
+  - [Japanese Cities' Names](https://www.hackerrank.com/challenges/japanese-cities-name/problem) | **Solution:** [MySQL Solution](https://github.com/PryskaS/SQL-challenges/blob/master/1.%20Basic%20Select/Japanese%20Cities'%20Names.sql)
+  - [Weather Observation Station 1](https://www.hackerrank.com/challenges/weather-observation-station-1/problem) | **Solution:** [MySQL Solution](https://github.com/PryskaS/SQL-challenges/blob/master/1.%20Basic%20Select/Weather%20Observation%20Station%201.sql)
+  - [Weather Observation Station 3](https://www.hackerrank.com/challenges/weather-observation-station-3/problem) | **Solution:** [MySQL Solution](https://github.com/PryskaS/SQL-challenges/blob/master/1.%20Basic%20Select/Weather%20Observation%20Station%203.sql)
+  - [Weather Observation Station 4](https://www.hackerrank.com/challenges/weather-observation-station-4/problem) | **Solution:** [MySQL Solution](https://github.com/PryskaS/SQL-challenges/blob/master/1.%20Basic%20Select/Weather%20Observation%20Station%204.sql)
+  - [Weather Observation Station 5](https://www.hackerrank.com/challenges/weather-observation-station-5/problem) | **Solution:** [MySQL Solution](https://github.com/PryskaS/SQL-challenges/blob/master/1.%20Basic%20Select/Weather%20Observation%20Station%205.sql)
+  - [Weather Observation Station 6](https://www.hackerrank.com/challenges/weather-observation-station-6/problem) | **Solution:** [MySQL Solution](https://github.com/PryskaS/SQL-challenges/blob/master/1.%20Basic%20Select/Weather%20Observation%20Station%206.sql)
+  - [Weather Observation Station 7](https://www.hackerrank.com/challenges/weather-observation-station-7/problem) | **Solution:** [MySQL Solution](https://github.com/PryskaS/SQL-challenges/blob/master/1.%20Basic%20Select/Weather%20Observation%20Station%207.sql)
+  - [Weather Observation Station 8](https://www.hackerrank.com/challenges/weather-observation-station-8/problem) | **Solution:** [MySQL Solution](https://github.com/PryskaS/SQL-challenges/blob/master/1.%20Basic%20Select/Weather%20Observation%20Station%208.sql)
+  - [Weather Observation Station 9](https://www.hackerrank.com/challenges/weather-observation-station-9/problem) | **Solution:** [MySQL Solution](https://github.com/PryskaS/SQL-challenges/blob/master/1.%20Basic%20Select/Weather%20Observation%20Station%209.sql)
+  - [Weather Observation Station 10](https://www.hackerrank.com/challenges/weather-observation-station-10/problem) | **Solution:** [MySQL Solution](https://github.com/PryskaS/SQL-challenges/blob/master/1.%20Basic%20Select/Weather%20Observation%20Station%2010.sql)
+  - [Weather Observation Station 11](https://www.hackerrank.com/challenges/weather-observation-station-11/problem) | **Solution:** [MySQL Solution](https://github.com/PryskaS/SQL-challenges/blob/master/1.%20Basic%20Select/Weather%20Observation%20Station%2011.sql)
+  - [Weather Observation Station 12](https://www.hackerrank.com/challenges/weather-observation-station-12/problem) | **Solution:** [MySQL Solution](https://github.com/PryskaS/SQL-challenges/blob/master/1.%20Basic%20Select/Weather%20Observation%20Station%2012.sql)
+  - [Higher Than 75 Marks](https://www.hackerrank.com/challenges/more-than-75-marks/problem) | **Solution:** [MySQL Solution](https://github.com/PryskaS/SQL-challenges/blob/master/1.%20Basic%20Select/Higher%20Than%2075%20Marks.sql)
+  - [Employee Names](https://www.hackerrank.com/challenges/name-of-employees/problem) | **Solution:** [MySQL Solution](https://github.com/PryskaS/SQL-challenges/blob/master/1.%20Basic%20Select/Employee%20Names.sql)
+  - [Employee Salaries](https://www.hackerrank.com/challenges/salary-of-employees/problem) | **Solution:** [MySQL Solution](https://github.com/PryskaS/SQL-challenges/blob/master/1.%20Basic%20Select/Employee%20Salaries.sql)
   
 2. **Advanced Select**
   - [Type of Triangle](https://www.hackerrank.com/challenges/what-type-of-triangle/problem) | **Solution:** [MySQL Solution]
