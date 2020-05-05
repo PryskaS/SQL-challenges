@@ -48,11 +48,11 @@ Challenge | Solution
 
 Challenge | Solution
 ------------ | -------------
-[Revising Aggregations - The Count Function](https://www.hackerrank.com/challenges/revising-aggregations-the-count-function/problem) | [MySQL]
-[Revising Aggregations - The Sum Function](https://www.hackerrank.com/challenges/revising-aggregations-sum/problem) | [MySQL]
-[Revising Aggregations - Averages](https://www.hackerrank.com/challenges/revising-aggregations-the-average-function/problem) | [MySQL]
-[Average Population](https://www.hackerrank.com/challenges/average-population/problem) | [MySQL]
-[Japan Population](https://www.hackerrank.com/challenges/japan-population/problem) | [MySQL]
+[Revising Aggregations - The Count Function](https://www.hackerrank.com/challenges/revising-aggregations-the-count-function/problem) | [MySQL](https://github.com/PryskaS/SQL-challenges/blob/master/Aggregation%20Challenges/Revising%20Aggregations%20-%20The%20Count%20Function.sql)
+[Revising Aggregations - The Sum Function](https://www.hackerrank.com/challenges/revising-aggregations-sum/problem) | [MySQL](https://github.com/PryskaS/SQL-challenges/blob/master/Aggregation%20Challenges/Revising%20Aggregations%20-%20The%20Sum%20Function.sql)
+[Revising Aggregations - Averages](https://www.hackerrank.com/challenges/revising-aggregations-the-average-function/problem) | [MySQL](https://github.com/PryskaS/SQL-challenges/blob/master/Aggregation%20Challenges/Revising%20Aggregations%20-%20Averages.sql)
+[Average Population](https://www.hackerrank.com/challenges/average-population/problem) | [MySQL](https://github.com/PryskaS/SQL-challenges/blob/master/Aggregation%20Challenges/Average%20Population.sql)
+[Japan Population](https://www.hackerrank.com/challenges/japan-population/problem) | [MySQL](https://github.com/PryskaS/SQL-challenges/blob/master/Aggregation%20Challenges/Japan%20Population.sql)
 [Population Density Difference](https://www.hackerrank.com/challenges/population-density-difference/problem) | [MySQL]
 [The Blunder](https://www.hackerrank.com/challenges/the-blunder/problem) | [MySQL]
 [Top Earners](https://www.hackerrank.com/challenges/earnings-of-employees/problem) | [MySQL]
