@@ -53,8 +53,8 @@ Challenge | Solution
 [Revising Aggregations - Averages](https://www.hackerrank.com/challenges/revising-aggregations-the-average-function/problem) | [MySQL](https://github.com/PryskaS/SQL-challenges/blob/master/Aggregation%20Challenges/Revising%20Aggregations%20-%20Averages.sql)
 [Average Population](https://www.hackerrank.com/challenges/average-population/problem) | [MySQL](https://github.com/PryskaS/SQL-challenges/blob/master/Aggregation%20Challenges/Average%20Population.sql)
 [Japan Population](https://www.hackerrank.com/challenges/japan-population/problem) | [MySQL](https://github.com/PryskaS/SQL-challenges/blob/master/Aggregation%20Challenges/Japan%20Population.sql)
-[Population Density Difference](https://www.hackerrank.com/challenges/population-density-difference/problem) | [MySQL]
-[The Blunder](https://www.hackerrank.com/challenges/the-blunder/problem) | [MySQL]
+[Population Density Difference](https://www.hackerrank.com/challenges/population-density-difference/problem) | [MySQL](https://github.com/PryskaS/SQL-challenges/blob/master/Aggregation%20Challenges/Population%20Density%20Difference.sql)
+[The Blunder](https://www.hackerrank.com/challenges/the-blunder/problem) | [MySQL](https://github.com/PryskaS/SQL-challenges/blob/master/Aggregation%20Challenges/The%20Blunder.sql)
 [Top Earners](https://www.hackerrank.com/challenges/earnings-of-employees/problem) | [MySQL]
 [Weather Observation Station 2](https://www.hackerrank.com/challenges/weather-observation-station-2/problem) | [MySQL]
 [Weather Observation Station 13](https://www.hackerrank.com/challenges/weather-observation-station-13/problem) | [MySQL]
