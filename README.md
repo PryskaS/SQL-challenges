@@ -55,9 +55,9 @@ Challenge | Solution
 [Japan Population](https://www.hackerrank.com/challenges/japan-population/problem) | [MySQL](https://github.com/PryskaS/SQL-challenges/blob/master/Aggregation%20Challenges/Japan%20Population.sql)
 [Population Density Difference](https://www.hackerrank.com/challenges/population-density-difference/problem) | [MySQL](https://github.com/PryskaS/SQL-challenges/blob/master/Aggregation%20Challenges/Population%20Density%20Difference.sql)
 [The Blunder](https://www.hackerrank.com/challenges/the-blunder/problem) | [MySQL](https://github.com/PryskaS/SQL-challenges/blob/master/Aggregation%20Challenges/The%20Blunder.sql)
-[Top Earners](https://www.hackerrank.com/challenges/earnings-of-employees/problem) | [MySQL]
-[Weather Observation Station 2](https://www.hackerrank.com/challenges/weather-observation-station-2/problem) | [MySQL]
-[Weather Observation Station 13](https://www.hackerrank.com/challenges/weather-observation-station-13/problem) | [MySQL]
+[Top Earners](https://www.hackerrank.com/challenges/earnings-of-employees/problem) | [MySQL](https://github.com/PryskaS/SQL-challenges/blob/master/Aggregation%20Challenges/Top%20Earners.sql)
+[Weather Observation Station 2](https://www.hackerrank.com/challenges/weather-observation-station-2/problem) | [MySQL](https://github.com/PryskaS/SQL-challenges/blob/master/Aggregation%20Challenges/Weather%20Observation%20Station%202.sql)
+[Weather Observation Station 13](https://www.hackerrank.com/challenges/weather-observation-station-13/problem) | [MySQL](https://github.com/PryskaS/SQL-challenges/blob/master/Aggregation%20Challenges/Weather%20Observation%20Station%2013.sql)
 [Weather Observation Station 14](https://www.hackerrank.com/challenges/weather-observation-station-14/problem) | [MySQL]
 [Weather Observation Station 15](https://www.hackerrank.com/challenges/weather-observation-station-15/problem) | [MySQL]
 [Weather Observation Station 16](https://www.hackerrank.com/challenges/weather-observation-station-16/problem) | [MySQL]
