@@ -58,9 +58,9 @@ Challenge | Solution
 [Top Earners](https://www.hackerrank.com/challenges/earnings-of-employees/problem) | [MySQL](https://github.com/PryskaS/SQL-challenges/blob/master/Aggregation%20Challenges/Top%20Earners.sql)
 [Weather Observation Station 2](https://www.hackerrank.com/challenges/weather-observation-station-2/problem) | [MySQL](https://github.com/PryskaS/SQL-challenges/blob/master/Aggregation%20Challenges/Weather%20Observation%20Station%202.sql)
 [Weather Observation Station 13](https://www.hackerrank.com/challenges/weather-observation-station-13/problem) | [MySQL](https://github.com/PryskaS/SQL-challenges/blob/master/Aggregation%20Challenges/Weather%20Observation%20Station%2013.sql)
-[Weather Observation Station 14](https://www.hackerrank.com/challenges/weather-observation-station-14/problem) | [MySQL]
-[Weather Observation Station 15](https://www.hackerrank.com/challenges/weather-observation-station-15/problem) | [MySQL]
-[Weather Observation Station 16](https://www.hackerrank.com/challenges/weather-observation-station-16/problem) | [MySQL]
+[Weather Observation Station 14](https://www.hackerrank.com/challenges/weather-observation-station-14/problem) | [MySQL](https://github.com/PryskaS/SQL-challenges/blob/master/Aggregation%20Challenges/Weather%20Observation%20Station%2014.sql)
+[Weather Observation Station 15](https://www.hackerrank.com/challenges/weather-observation-station-15/problem) | [MySQL](https://github.com/PryskaS/SQL-challenges/blob/master/Aggregation%20Challenges/Weather%20Observation%20Station%2015.sql)
+[Weather Observation Station 16](https://www.hackerrank.com/challenges/weather-observation-station-16/problem) | [MySQL](https://github.com/PryskaS/SQL-challenges/blob/master/Aggregation%20Challenges/Weather%20Observation%20Station%2016.sql)
 [Weather Observation Station 17](https://www.hackerrank.com/challenges/weather-observation-station-17/problem) | [MySQL]
 [Weather Observation Station 18](https://www.hackerrank.com/challenges/weather-observation-station-18/problem) | [MySQL]
 [Weather Observation Station 19](https://www.hackerrank.com/challenges/weather-observation-station-19/problem) | [MySQL]
