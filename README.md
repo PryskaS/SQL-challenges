@@ -84,7 +84,7 @@ Challenge | Solution
 [SQL Project Planning](https://www.hackerrank.com/challenges/sql-projects) | [MySQL](https://github.com/PryskaS/SQL-challenges/blob/master/5.%20Advanced%20Join/SQL%20Project%20Planning.sql)
 [Placements](https://www.hackerrank.com/challenges/placements) | [MySQL](https://github.com/PryskaS/SQL-challenges/blob/master/5.%20Advanced%20Join/Placements.sql)
 [Symmetric Pairs](https://www.hackerrank.com/challenges/symmetric-pairs) | [MySQL](https://github.com/PryskaS/SQL-challenges/blob/master/5.%20Advanced%20Join/Symmetric%20Pairs.sql)
-[Interviews](https://www.hackerrank.com/challenges/interviews) | [MySQL]
+[Interviews](https://www.hackerrank.com/challenges/interviews) | [MySQL](https://github.com/PryskaS/SQL-challenges/blob/master/5.%20Advanced%20Join/Interviews.sql)
 [15 Days of Learning SQL](https://www.hackerrank.com/challenges/15-days-of-learning-sql) | [MySQL]
   
 6. **Alternative Queries**
