@@ -81,7 +81,7 @@ Challenge | Solution
 
 Challenge | Solution
 ------------ | -------------
-[SQL Project Planning](https://www.hackerrank.com/challenges/sql-projects) | [MySQL]
+[SQL Project Planning](https://www.hackerrank.com/challenges/sql-projects) | [MySQL](https://github.com/PryskaS/SQL-challenges/blob/master/5.%20Advanced%20Join/SQL%20Project%20Planning.sql)
 [Placements](https://www.hackerrank.com/challenges/placements) | [MySQL]
 [Symmetric Pairs](https://www.hackerrank.com/challenges/symmetric-pairs) | [MySQL]
 [Interviews](https://www.hackerrank.com/challenges/interviews) | [MySQL]
