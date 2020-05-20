@@ -76,6 +76,7 @@ Challenge | Solution
 [The Report](https://www.hackerrank.com/challenges/the-report/submissions/code/94188063) | [MySQL](https://github.com/PryskaS/SQL-challenges/blob/master/Basic%20Join/The%20Report.sql)
 [Top Competitors](https://www.hackerrank.com/challenges/full-score/problem) | [MySQL](https://github.com/PryskaS/SQL-challenges/blob/master/Basic%20Join/Top%20Competitors.sql)
 [Ollivander's Inventory](https://www.hackerrank.com/challenges/harry-potter-and-wands/problem) | [MySQL](https://github.com/PryskaS/SQL-challenges/blob/master/Basic%20Join/Ollivander's%20Inventory.sql)
+[Contest Leaderboard](https://www.hackerrank.com/challenges/contest-leaderboard/problem) | [MySQL](https://github.com/PryskaS/SQL-challenges/blob/master/Basic%20Join/Contest%20Leaderboard.sql)
   
 5. **Advanced Join**
 
