@@ -91,6 +91,6 @@ Challenge | Solution
 
 Challenge | Solution
 ------------ | -------------
-[Draw The Triangle 1](https://www.hackerrank.com/challenges/draw-the-triangle-1) | [MySQL]
-[Draw The Triangle 2](https://www.hackerrank.com/challenges/draw-the-triangle-2) | [MySQL]
-[Print Prime Numbers](https://www.hackerrank.com/challenges/print-prime-numbers) | [MySQL]
+[Draw The Triangle 1](https://www.hackerrank.com/challenges/draw-the-triangle-1) | [MySQL](https://github.com/PryskaS/SQL-challenges/blob/master/6.%20Alternative%20Queries/Draw%20The%20Triangle%201.sql)
+[Draw The Triangle 2](https://www.hackerrank.com/challenges/draw-the-triangle-2) | [MySQL](https://github.com/PryskaS/SQL-challenges/blob/master/6.%20Alternative%20Queries/Draw%20The%20Triangle%202.sql)
+[Print Prime Numbers](https://www.hackerrank.com/challenges/print-prime-numbers) | [MySQL](https://github.com/PryskaS/SQL-challenges/blob/master/6.%20Alternative%20Queries/Print%20Prime%20Numbers.sql)
